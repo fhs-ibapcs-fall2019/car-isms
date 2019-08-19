@@ -6,5 +6,12 @@
  */
 public class Car
 {
-
+  private String name;
+  private int weight;
+  
+  public Car(String n, int w)
+  {
+    name = n
+    weight = w
+  }
 }
