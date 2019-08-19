@@ -11,7 +11,7 @@ public class Car
   
   public Car(String n, int w)
   {
-    name = n
-    weight = w
+    name = n;
+    weight = w;
   }
 }
